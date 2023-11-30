@@ -1,0 +1,20 @@
+[If there was an endpoint] by - Koshiin -
+Cursor, slider ball
+
+[Ralsei dark 1.2] by Corne2Plum3
+Spinner, hit sounds, follow line, follow circle (on slider)
+
+[Vaxei 2017-03-05/VaxeiHD v1.0] by Fatal3ty
+Judgements (50, 100, etc)
+
+[Night of Knights] by BatuhanYtho
+Hit circle, spinner
+
+[avenir] by rabidpan
+Input overlay
+
+[osu!pure] by CrispySquirrel (Castin Cramer)
+Ranking screen, mods, grades
+
+[default skin] by osu! dev team
+Fonts, countdown, slider reverse arrow, slider ticks, rpm
